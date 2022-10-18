@@ -28,6 +28,8 @@ the majority of these are aimed at beginners with hopefully comprehensive writeu
 
 [amend 1](https://github.com/unswsecsoc/22t2-skylight-ctf/blob/main/misc/amend_1/writeup.md)
 
+[tardis](https://github.com/unswsecsoc/22t3-secsoc-x-csesoc-beginner-ctf/blob/master/misc/tardis/writeup.md)
+
 ## Forensics
 
 [adobe](https://github.com/unswsecsoc/21t2-skylight-ctf/blob/main/forensics/adobe/writeup.md)
